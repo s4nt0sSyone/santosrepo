@@ -1,4 +1,0 @@
-docker/zbx_env/*
-others/*
-prometheus-*.yaml
-cluster*.yaml
