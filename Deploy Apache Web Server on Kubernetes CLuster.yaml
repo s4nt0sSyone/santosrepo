@@ -20,7 +20,7 @@ metadata:
   labels:
     app: httpd_app_nautilus
 spec:
-  replicas: 4
+  replicas: 1
   selector:
     matchLabels:
       app: httpd_app_nautilus
